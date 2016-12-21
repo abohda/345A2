@@ -1,0 +1,8 @@
+﻿  Map.cpp
+d:\documents\programming\vs\a2\a2\map.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming\vs\a2\a2\map.cpp(132): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming\vs\a2\a2\map.cpp(168): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming\vs\a2\a2\map.cpp(218): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming\vs\a2\a2\map.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\documents\programming\vs\a2\a2\map.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  A2.vcxproj -> D:\Documents\Programming\VS\A2\Debug\A2.exe
